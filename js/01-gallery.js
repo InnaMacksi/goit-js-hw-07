@@ -55,7 +55,7 @@ function createGalleryMarkup(galleryItems) {
     <img
       class="gallery__image"
       src="${preview}"
-      data-source="${original}"
+      data-sourse="${original}"
       alt="${description}"
     />
   </a>
